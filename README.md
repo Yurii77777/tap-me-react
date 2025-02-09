@@ -19,3 +19,7 @@ Create .env:
 - **Tanstack Query:** [Tanstack Query](https://tanstack.com/query/latest)
 - **Telegram Mini App SDK:** [Telegram Mini App SDK](https://core.telegram.org/bots/webapps#initializing-mini-apps)
 - **Git Actions for Vercel:** [Git Actions for Vercel](https://github.com/features/actions)
+
+### BackEnd for this repo here
+
+**tap-me-telegram:** [tap-me-telegram](https://github.com/Yurii77777/tap-me-telegram)
