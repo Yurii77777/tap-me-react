@@ -1,0 +1,25 @@
+export const styles = {
+  width: "77%",
+  maxWidth: "480px",
+  minWidth: "250px",
+  aspectRatio: "1 / 1",
+  borderRadius: "50%",
+  background: "linear-gradient(145deg, #00ff99, #00ccff)",
+  color: "#1E293B",
+  fontSize: "2.5rem",
+  fontWeight: "bold",
+  boxShadow: "0 8px 15px rgba(0, 255, 153, 0.4), 0 8px 15px rgba(0, 204, 255, 0.4)",
+  textTransform: "none",
+  transition: "all 0.3s ease",
+  margin: "10px auto",
+  display: "block",
+  "&:hover": {
+    background: "linear-gradient(145deg, #00ccff, #00ff99)",
+    boxShadow: "0 12px 20px rgba(0, 255, 153, 0.6), 0 12px 20px rgba(0, 204, 255, 0.6)",
+    transform: "translateY(-3px)",
+  },
+  "&:active": {
+    boxShadow: "inset 0 4px 8px rgba(0, 0, 0, 0.3)",
+    transform: "translateY(1px)",
+  },
+};
